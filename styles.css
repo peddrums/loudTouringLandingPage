@@ -157,3 +157,14 @@ p {
   transition: all 0.1s;
   background-color: orange;
 }
+
+#footer {
+  position: relative;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+#email_backup {
+  background-color: rgba(0, 0, 0, 0.4);
+}
